@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InLoco Weather</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btnSearch">Buscar Cidades Proximas</string>
+</resources>
