@@ -14,6 +14,11 @@
 .cxx
 
 
+#EXCLUINDO AS SENHAS:
+/app/src/main/res/values/ope_weather_config.xml
+/app/src/main/res/values/google_maps_api.xml
+
+
 
 # Created by https://www.gitignore.io/api/android,androidstudio
 # Edit at https://www.gitignore.io/?templates=android,androidstudio
@@ -219,3 +224,6 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.gitignore.io/api/android,androidstudio
+app/google-services.json
+
+app/src/debug/res/values/google_maps_api.xml

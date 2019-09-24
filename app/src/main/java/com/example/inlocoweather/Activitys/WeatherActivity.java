@@ -15,7 +15,5 @@ public class WeatherActivity extends AppCompatActivity {
         setContentView(R.layout.activity_weather);
 
         Bundle params = getIntent().getExtras();
-
-        Log.i("WeatherActivity", "onCreate: "+ params.get("weather"));
     }
 }

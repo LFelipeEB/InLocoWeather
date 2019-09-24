@@ -51,7 +51,6 @@ public class AdapterWeather extends RecyclerView.Adapter<WeatherViewHolder>{
 
     @Override
     public int getItemCount() {
-        Log.i("AdapterWeather", "getItemCount: "+weathers.size());
         return weathers.size();
     }
 
