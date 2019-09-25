@@ -1,0 +1,11 @@
+<resources>
+    <!--
+    Package name:
+    37:A2:4B:68:B7:D5:EB:6D:02:4C:7D:04:39:8A:48:FD:57:95:79:5B
+
+    SHA-1 certificate fingerprint:
+    37:A2:4B:68:B7:D5:EB:6D:02:4C:7D:04:39:8A:48:FD:57:95:79:5B
+
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">SUA API_KEY</string>
+</resources>

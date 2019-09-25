@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="weather_api_key" templateMergeStrategy="preserve" translatable="false">API_KEY_Open_Weather</string>
+    <string name="inloco_api_key" templateMergeStrategy="preserve" translatable="false">API_KEY_IN_LOCO</string>
+    <string name="weather_base_url" templateMergeStrategy="preserve" translatable="false">https://api.openweathermap.org/data/2.5/</string>
+</resources>
